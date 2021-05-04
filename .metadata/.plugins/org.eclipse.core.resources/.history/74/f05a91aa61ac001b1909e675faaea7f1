@@ -1,0 +1,17 @@
+package entites;
+
+public class Retangulo extends Calculo {
+
+	private Double largura;
+	private Double altura;
+	
+	public Retangulo
+	@Override
+	public double area() {
+		
+		return 0;
+	}
+
+	
+	
+}
